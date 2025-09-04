@@ -6,19 +6,19 @@ Este projeto documenta o processo de criação de uma Máquina Virtual (VM) util
 Aqui estão algumas capturas de tela das configurações e detalhes da VM que foi criada:
 
 ### Detalhes Iniciais da VM
-![Detalhes Iniciais da VM]
+![Detalhes Iniciais da VM] https://github.com/MariHuth/azure-vm-project/blob/main/images/09e1ab8c-23fc-47cc-9268-290e2dd21fc8.jpg
 
 ### Configurações de Hardware e Sistema Operacional
-![Configurações de Hardware e Sistema Operacional]
+![Configurações de Hardware e Sistema Operacional] https://github.com/MariHuth/azure-vm-project/blob/main/images/239df854-7adc-4afa-b62f-1905a96df8db.jpg
 
 ### Disponibilidade e Dimensionamento
-![Disponibilidade e Dimensionamento]
+![Disponibilidade e Dimensionamento] https://github.com/MariHuth/azure-vm-project/blob/main/images/6d35e646-9eff-40c9-863d-ef63c281c7d3.jpg
 
 ### Configurações de Rede e Extensões
-![Configurações de Rede e Extensões]
+![Configurações de Rede e Extensões] https://github.com/MariHuth/azure-vm-project/blob/main/images/6d4cfcb2-2208-4530-9509-28ddaf34cd9a.jpg
 
 ### Configurações de Disco e Desligamento Automático
-![Configurações de Disco e Desligamento Automático]
+![Configurações de Disco e Desligamento Automático] https://github.com/MariHuth/azure-vm-project/blob/main/images/cb036535-a74a-45fa-8805-32b8e6ec55f3.jpg
 
 ##Objetivos do Projeto
 O objetivo principal deste projeto foi implantar uma máquina virtual do zero, configurando-a para atender a requisitos básicos de computação. As metas específicas incluíram:
